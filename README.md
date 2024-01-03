@@ -11,63 +11,105 @@
 
 
 
+- **dreamtreelab - email form - 17 dec 2021**
+    - http://sanfernandovalleybookkeeping.com/
+    - html email form
+    - ![sanfernandovalleybookkeeping](assets/sanfernandovalleybookkeeping.png)
 
+- **melys - html template portfolio - 24 jan 2022**
+    - https://www.melissahermes.com/
+    - isotope js filtering
+    - ![melissahermes](assets/melissahermes.png)
 
-- melys - html template portfolio - 24 jan 2022
-
-- davidcnvs - scroll loop - 11 feb 2022
+- **davidcnvs - scroll loop - 11 feb 2022**
+    - https://www.redfarma.cl/
+    - json to html table, autoscroll loop display
+    - ![redfarma](assets/redfarma.png)
  
 - aylinhosseinnchi - class creation and array sorting assignment (js classes calculator) - 7 mar 2022
 
-- **immalex - click outside popup to close modal - 29 mar 2022**
-- immalex - zinedx items below showing in npopup - 29 mar 2022
-
-- davidcnvs - mobile shoppinng cart webpage - 29 mar 2022
-
 - bry457 - empty order - 19 mar 2022
+
+- **davidcnvs - mobile shoppinng cart webpage - 29 mar 2022**
+    - responsive checkout modal
+    - ![centrodistributionredfarma](assets/centrodistributionredfarma.png)
+
+- **immalex - click outside popup to close modal - 29 mar 2022**
+    - https://runumass.com/
+    - click anywhere to close popup modal
+    - ![runumass](assets/runumass.png)
+
+- **immalex - zinedx items below showing in npopup - 29 mar 2022**
+    - https://www.monkou.com/
+    - z-index adjustment for items under/behind modal popup
+    - [monkou](assets/monkou.png)
+
+- **steveracine - laurentian bank / youtube iframe embed - 4 april 2022**
+    - https://www.laurentianbank.ca/
+    - website landing page
+    - ![laurentianbank](assets/laurentianbank.png)
 
 - purerumor98 - edit modal css assignnment - 4 april 2022
 
-- **steveracine - laurentian bank / youtube iframe embed - 4 april 2022**
 - steveracine - laurentian bank / youtube iframe embed - 11 april 2022
 
 - **chriskenco - pointer event bio responsive layout - 14 april 2022**
     - https://lifefram.org
+    - responsive bio layout
+    - ![lifefram](assets/lifefram.png)
 
 - sirdarknight - curved edge div for shopping cart modal - 19 april 2022
 
 - elliebarton01 - horizonntal tabs - prev/next buttons - 26 april 2022
 
 - **globetrek100 - transparent nav bar - weather app - 26 april - 2022**
+    - transparent nav bar
+    - ![weatherlookup](assets/weatherlookup.png)
 
 - **goodquestionnmma - rich text formatter - 28 april 2022**
+    - https://jsfiddle.net/nk35aLwb/
+    - ![richtextformatter](assets/richtextformatter.png)
 
 - elliebarton01 - center prev next buttons with jquery height of div - 3 may 2022
-- elliebarton01 - hightlight active tab with multiple navigation containers - 6 may 2022
 
+- kwadwoadugyamfi - keep image ratios - 3 may 2022
+    - kola market
+    - ![kolamarket](assets/kolamarket.png)
 
 - chriskenco - footer sticky to bottom of page if content does not fill - 5 may 2022
 
-- kwadwoadugyamfi - keep image ratios - 3 may 2022
+- elliebarton01 - hightlight active tab with multiple navigation containers - 6 may 2022
 
 - chriskenco - responsive plaholder / pointer event clickable undner div - 11 may 2022
 
-- orestis4407 - cryptopupper - 10 may 2022
+- **misterhh - mobile responsive logo and button size - 15 may 2022**
+    - https://dship.biz/
+    - responsive html css website
+    - ![dship](assets/dship.png)
 
-- misterhh - mobile responsive logo and button size - 15 may 2022
+- **orestis4407 - cryptopupper - 10 may 2022**
+    - responsive React.js website with interactive mouse events 
+    - ![cryptopupper](assets/cryptopupper.png)
 
 - **tonymcdermott - css js crossword - 23 may 2022**
 
 - orestis4407 - cryptopupper theme toggle and music - 21 may 2022
 
-- captain_unknown - full svg image website crypto wallet - 27 may 2022
+- **captain_unknown - full svg image website crypto wallet - 27 may 2022**
+    - wallet.dero.io
+    - responsive html css website
+    - ![wallet.dero.io](assets/wallet.dero.io.png)
 
 - **krautland - youtube video embed  in nhtml - 8 june 2022**
     - https://memostothefuture.com/lockdown.html
+    - youtube iframe embed
+    - ![memostothefuture](assets/memostothefuture.png)
 
 - **dstetteh - kolamarket react js website - 7 june 2022**
 
-- blurayauthority - cod info rating box responsive - 13 june 2022
+- **blurayauthority - cod info rating box responsive - 13 june 2022**
+    - cloned responsive cod review box
+    - ![codreviewbox](assets/codreviewbox.png)
 
 - dstetteh - kola market - 17 june 2022
 
@@ -75,26 +117,45 @@
 
 - **lundy504 - maximus logistics inc - 28 june 2022**
     - https://maximuslogistics.org
+    - https://maximuslogisticsinctrucking.web.app/
+    - responsive html css website hosted with firebase
+    - ![maximuslogisticsinctrucking](assets/maximuslogisticsinctrucking.png)
 
 
 - **phillipminel - spotify bpnm data visualization - 3 july 2022**
     - https://anton-soeffing.de/dataviz
+    - javascript animated data visualization of song BPM from Spotify top 100
+    - ![spotifybpm png](assets/spotifybpm.png)
+    - ![spotifybpm gif](assets/spotifybpm.gif)
 
 - dstetteh - kola market - 6 july 2022
 
-- adi_init01 - countries cities states json sutofill - 15 july 2022
+- **adi_init01 - countries cities states json sutofill - 15 july 2022**
+    - https://viszard.com/
+    - json form autofill (cities states country)
+    - ![viszard](assets/viszard.png)
+    - ![viszard](assets/viszard.gif)
 
 - **cheetoe - convert word doc to html upload php files to server /manual pagination -  21 july 2022**
     - https://michiganpsychologicalcare.com
+    - monthly article upload and pagination
+    - ![michiganpsychologicalcare](assets/michiganpsychologicalcare.png)
 
 - **katavarga333 - art portfolio pointer arrow photo navigation - 19 july 2022**
+    - https://www.katabayer.com
+    - html liquid arrow pointer for gallery navigation
+    - ![katabayer](assets/katabayer.png)
 
-- atayshete - SAT math questions  - 23 july 2022
+
+- **atayshete - SAT math questions  - 23 july 2022**
+    - dual questions with hints and answers on a timed cycle from study guide JSON file
+    - ![satquiz](assets/satquiz.png)
 
 - katavarga333 -  - 26 july 2022
 
 - **nickjosephnaso - firebase photo upload - 23 july 2022**
     - https://bartyrz.com
+    - 
 
 - lani98 - pixel measure only makup website - 27 july 2022
 
