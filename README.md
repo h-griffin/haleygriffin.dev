@@ -155,20 +155,29 @@
 
 - **nickjosephnaso - firebase photo upload - 23 july 2022**
     - https://bartyrz.com
-    - 
+    - Firebase Database form submission ID linked with Firebase Storage photo upload
+    - ![bartyrz](assets/bartyrz.png)
 
-- lani98 - pixel measure only makup website - 27 july 2022
+- **lani98 - pixel measure only makup website - 27 july 2022**
+    - pixel only measurement html css website
+    - ![lunabeauty](assets/lunabeauty.png)
 
-- dstetteh - kola market - 26 july 2022
+- **dstetteh - kola market - 26 july 2022**
+    - responsive react.js deals of the day banner
+    - ![kolamarketdeals](assets/kolamarketdeals.png)
 
 - nickjosephnaso - firebase db api - 1 aug 2022
 
-- rosenaupro - youtube embed controls -  3 aug 2022
+- **rosenaupro - youtube embed controls -  3 aug 2022**
     - https://chriss-ultra-awesome-site-02c85f.webflow.io
+
 
 - **atayshete - study/flashcard translation - 1 aug 2022**
 
 - **mr_relatable - valorant? colored shape waves in the background  - 10 aug 2022**
+    - https://mrrelatable.com/
+    - responsive svg background
+    - ![mrrelatable](assets/mrrelatable.png)
 
 - cheetoe - php articles - 10 aug 2022
 
@@ -178,7 +187,10 @@
 
 - rosenaupro - canvas iframe embed - 17 aug 2022
 
-- brushbill - nested navigation - 31 aug 2022
+- **brushbill - nested navigation - 31 aug 2022**
+    - https://www.breathingcolor.com/
+    - animated nested sidebar menu navigation
+    - ![breathingcolor](assets/breathingcolor.png)
 
 - cheetoe - php articles - 31 aug 2022
 
@@ -187,6 +199,8 @@
 
 - **bcohen_2020gene - cancer risk calculator - 23 sept 2022**
     - www.onetestforcancer.com
+    - cancer screening quiz and risk result score
+    - ![onetestforcancer](assets/onetestforcancer.png)
 
 - wilde_creative - fluid text hover - 30 sept 2022
 
