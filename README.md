@@ -13,7 +13,7 @@
 
 - **dreamtreelab - 17 dec 2021**
     - html email form
-    - http://sanfernandovalleybookkeeping.com/
+    - https://sanfernandovalleybookkeeping.com/
     - ![sanfernandovalleybookkeeping](assets/2021/sanfernandovalleybookkeeping.png)
 
 # === 2022 ===
@@ -46,8 +46,8 @@
 - **immalex - 29 mar 2022**
     - https://www.monkou.com/
     - z-index adjustment for items under/behind modal popup
-    - [monkouhome](assets/2022/monkouhome.png)
-    - [monkou](assets/2022/monkou.png)
+    - ![monkouhome](assets/2022/monkouhome.png)
+    - ![monkou](assets/2022/monkou.png)
 
 - **steveracine - 4 april 2022**
     - https://www.laurentianbank.ca/
@@ -75,10 +75,16 @@
     - transparent nav bar, weather app
     - ![weatherlookup](assets/2022/weatherlookup.png)
 
+- **alanleestewart - 27 april 2022 (*cancelled?*)**
+    - iframe video player side panel controls
+    - ![smartsdemo](assets/2022/smartsdemo.gif)
+
 - **goodquestionnmma - 28 april 2022**
     - rich text formatter 
     - https://jsfiddle.net/nk35aLwb/
+    - ![richtextformatter](assets/2022/richtextformatter.gif)
     - ![richtextformatter](assets/2022/richtextformatter.png)
+
 - elliebarton01 - 3 may 2022
     - center prev next buttons with jquery height of div 
 
@@ -169,6 +175,7 @@
 - **atayshete - 23 july 2022**
     - dual questions with hints and answers on a timed cycle from study guide JSON file
     - ![satquiz](assets/2022/satquiz.png)
+    - ![satquiz](assets/2022/satquiz.gif)
 
 - katavarga333- 26 july 2022
 
@@ -419,6 +426,7 @@
     - react js chartjs and html to image size selection downlaod
     - https://excelkits.com/
     - ![excelkits](assets/2023/excelkits.png)
+    - ![averagebudget](assets/2023/averagebudget.png)
 
 - jessraspa - 5 july 2023
     - css center
@@ -488,7 +496,7 @@
     - https://iwanttools.com/
         - ![iwanttools](assets/2023/iwanttools.png)
     - https://iwanttools.com/svgeditor/
-        - ![svgeditor](Assets/2023/svgeditor.png)
+        - ![svgeditor](assets/2023/svgeditor.png)
     - https://iwanttools.com/spftoolbox/
         - ![spftoolbox](assets/2023/spftoolbox.png)
     - https://iwanttools.com/json-beautifier/
@@ -505,5 +513,30 @@
     - ![beginnerhorseowner](assets/2023/beginnerhorseowner.png)
 
 
+# === 2024 ===
 
+- **skiph - 30 jan 2024**
+    - dnd character sheets
+        - vehicle
+        - stats
+        - companion
+    - ![dnd-companion](assets/2024/dnd-companion.png)
+    - ![dnd-stats](assets/2024/dnd-stats.png)
+    - ![dnd-vehicle](assets/2024/dnd-vehicle.png)
 
+- cheetoe - 05 feb 2024
+    - january files
+
+- **lydiam - 22 feb 2024**
+    - SEO accesibility  
+    - https://l2lcrystal.com/
+    - ![l2l mobile](assets/2024/l2l-mobile.png)
+    - ![l2l desktop](assets/2024/l2l-desktop.png)
+
+- lydiam - 22 feb 2024
+    - SEO load time optimization
+    - https://l2lcrystal.com/
+
+- onfivefingers - 29 feb 2024
+    - draggable html table rows with collapsable tree view jquery-sortable
+    - ![draggable-table](assets/2024/draggable-table.gif)
